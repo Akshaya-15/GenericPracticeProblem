@@ -1,9 +1,10 @@
 package genericpractice1;
 
 public class Maximumcheck {
-	//UC1 Find The Maximum Of 3 Integer
-	public Integer maximumValue(Integer x, Integer y, Integer z) {
-		Integer max = x;
+	//UC3 Find The Maximum of 3 Strings
+	
+	public String maximumValue(String x, String y, String z) {
+		String max = x;
 		if (y.compareTo(max) > 0) {
 			max = y;
 		} if (z.compareTo(max) > 0) {
