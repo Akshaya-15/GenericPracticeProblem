@@ -1,7 +1,7 @@
 package genericpractice1;
 
 public class Maximumcheck {
-	//UC3 Find The Maximum of 3 Strings
+	//UC2 Find The Maximum of 3 Strings
 	
 	public String maximumValue(String x, String y, String z) {
 		String max = x;
